@@ -7,7 +7,7 @@
 - 🌱 Exploring **Rust** and **Quantum Computing** and its applications in AI and scientific simulations.  
 - 🏆 Award-winning **Robotics Engineer** and passionate about solving complex challenges.  
 - 💡 Open to collaborative projects in **High-Performance Computing**, **Systems Programming**, and **Robotics**.  
-- 📫 Reach me at [elghotmy7@gmail.com](mailto:elghotmy7@gmail.com).
+- 📫 Reach me at [elghotmy7@gmail.com](mailto:elghotmy7@gmail.com) and [Linkedin](https://linkedin.com/in/ghotmy).
 
 ### Languages and Tools  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) 
